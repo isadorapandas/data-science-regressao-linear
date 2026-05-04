@@ -1,6 +1,6 @@
 # data-science-regressao-linear
 
-Neste projeto, iremos estabelecer o preço de venda de casas, analisando as diversas características que influenciam sua precificação, através da regressão linear. 
+Neste projeto, o objetivo foi estabelecer o preço de venda de casas, analisando as diversas características que influenciam sua precificação, através da regressão linear. 
 
 A base de dados utilizada foi a House Price do Kaggle (**Preços_de_casas.csv**). Algumas transformações foram feitas na base original para garantir um melhor aprendizado das técnicas apresentadas no curso de Regressão Linear da Alura.
 
